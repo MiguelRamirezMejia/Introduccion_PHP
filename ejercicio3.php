@@ -2,6 +2,6 @@
 
 $nombre = $_GET ["nombre"];
 
-echo "Hola ".$nombre;
+echo "Hola, buenas".$nombre;
 
 ?>
